@@ -27,3 +27,10 @@ Enjoy!
 ```
 python -u puzzle.py -h
 ```
+
+
+### Tic Tac Toe
+
+```
+python -u tictactoe.py
+```
